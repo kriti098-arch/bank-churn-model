@@ -1,0 +1,1 @@
+This is a project on MachineLearning Model. It has the Support Vector machine. This project is done as a part of YBI foundation internship. I learnt how to preprocess, model and compare accuracies for raw data vs random under sampling vs random oversampling of data.
